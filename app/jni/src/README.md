@@ -1,7 +1,7 @@
-1) assets (your loadables)
+1) assets (the loadables)
 2) Android.mk (local make file used by gradle to build/link your project)
 3) CMakeLists.txt (local cmake file used to develop you project, under your favorite ide)
-4) main.cpp (your entry point)
+4) main.cpp (the entry point)
 
 notes:
 1) Remember to copy your assets into the java assets folder (../../app/src/main/assets)
